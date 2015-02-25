@@ -11,11 +11,11 @@
 	<key>fonts</key>
 	<array>
 		<string>Helvetica</string>
-		<string>LucidaGrande</string>
-		<string>Baghdad</string>
+		<string>Helvetica-Light</string>
+		<string>STHeitiSC-Light</string>
 	</array>
 	<key>length</key>
-	<integer>64859</integer>
+	<integer>187402</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
